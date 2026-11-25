@@ -1,0 +1,45 @@
+{
+  "note": "Un solo reintento. No publicar si ya existe un post con la misma URL de video. No reintentar si Buffer responde 429.",
+  "organizationName": "My organization",
+  "organizationId": "6ab1dd0b88b55d24ffd171d7",
+  "posts": [
+    {
+      "channelName": "IA AL ALCANCE",
+      "channelId": "6abb15f5ea19ca0bde1c22f5",
+      "service": "youtube",
+      "durationSeconds": 169.3,
+      "videoUrl": "https://raw.githubusercontent.com/graciasdios9999-prog/lote256-20261125/main/ia_macropinna.mp4",
+      "schedulingType": "automatic",
+      "mode": "shareNow",
+      "fallbackModeIfShareNowLimit": "addToQueue",
+      "youtube": {
+        "type": "short",
+        "title": "2026: El único pez que esconde los ojos dentro del cráneo",
+        "categoryId": "15",
+        "privacy": "public",
+        "madeForKids": false,
+        "isAiGenerated": true
+      },
+      "text": "2026: hay un pez en el Pacífico norte que no pone los ojos en la cara. Los esconde dentro de un cráneo de gel transparente. Se llama Macropinna microstoma, el barreleye. Cabe en una palma. El cuerpo es oscuro y la cabeza es una ventana. Dos tubos verdes miran hacia arriba, a través del propio cráneo, buscando sombras contra la poca luz que baja de la superficie. Su familia, los Opisthoproctidae, repite el mismo truco. Durante años los museos solo tenían cuerpos rotos por la red de arrastre. En 2009 un robot de aguas profundas filmó uno vivo: el casco estaba entero y los ojos giraban dentro del gel. El verde del tubo filtra el sol y deja pasar la luz que fabrican sus vecinos. Abajo vigila medusas. Arriba lee el techo del mar.\n\nSi este dato te voló la cabeza, sígueme, deja tu like y comparte el video con alguien que crea que el océano ya no guarda secretos.\n\nEn la descripción dejé cinco búsquedas reales de Amazon para que entres y mires. Elige tú. No hay precios en el video.\n\n1. Prismáticos Bushnell\nhttps://www.amazon.com/s?k=Bushnell+binoculars&tag=michelgonza02-20\n2. Linterna frontal recargable\nhttps://www.amazon.com/s?k=rechargeable+LED+headlamp&tag=michelgonza02-20\n3. Libreta Rite in the Rain\nhttps://www.amazon.com/s?k=Rite+in+the+Rain+notebook&tag=michelgonza02-20\n4. Botella de acero inoxidable\nhttps://www.amazon.com/s?k=stainless+steel+insulated+water+bottle&tag=michelgonza02-20\n5. Libro del océano National Geographic\nhttps://www.amazon.com/s?k=National+Geographic+ocean+book&tag=michelgonza02-20\n\n#ad El tag michelgonza02-20 es el que ya aparece en publicaciones anteriores de esta cuenta. Contenido generado con inteligencia artificial: voz neural en español de México y planos de Wikimedia Commons, según sus licencias. No es para niños. Curiosidad de fauna salvaje, no un consejo profesional.\n\n#Macropinna #Barreleye #Oceano #Fauna #Curiosidades #2026 #IAalAlcance #VidaSalvaje #Shorts"
+    },
+    {
+      "channelName": "Refugio en la Palabra",
+      "channelId": "6ab1ecc9ea19ca0bdeaf3f13",
+      "service": "youtube",
+      "durationSeconds": 154.58,
+      "videoUrl": "https://raw.githubusercontent.com/graciasdios9999-prog/lote256-20261125/main/fe_huesos.mp4",
+      "schedulingType": "automatic",
+      "mode": "shareNow",
+      "fallbackModeIfShareNowLimit": "addToQueue",
+      "youtube": {
+        "type": "short",
+        "title": "2026: El valle que se levantó cuando ya no quedaba esperanza",
+        "categoryId": "27",
+        "privacy": "public",
+        "madeForKids": false,
+        "isAiGenerated": true
+      },
+      "text": "2026: un valle de huesos secos escuchó una pregunta imposible. Ezequiel vio el campo sin músculo y sin aliento, y aun así llegó la voz: hijo de hombre, ¿vivirán estos huesos? La respuesta humana sería no. La fe no cierra el valle. La Palabra entra y lo nombra. Doy gracias a Jesucristo, que no pasó de largo ante lo que ya parecía terminado. Doy gracias a Jehová, porque su orden no depende de mi fuerza. Quien busca a Dios no se queda vacío. Esa promesa es el eje. Primero el ruido, luego hueso con hueso, después tendón, carne y piel, y al final el aliento. La forma sin espíritu sigue siendo un valle. El mandato llama al viento de los cuatro costados. No es un paisaje inventado. Es esperanza con orden divino.\n\nSi esta palabra te sostuvo, sígueme, deja tu like y comparte el mensaje con alguien que está mirando sus propios restos.\n\nEntra al enlace cuando termines el video. Abajo dejé cinco búsquedas reales de Amazon para que mires y elijas. No hay precios en el video. Cita breve parafraseada y anclada en Reina-Valera 1909, dominio público. No es un audiolibro.\n\n1. Biblia Reina Valera\nhttps://www.amazon.com/s?k=Biblia+Reina+Valera&tag=michelgonza02-20\n2. Diario de oración\nhttps://www.amazon.com/s?k=prayer+journal+notebook&tag=michelgonza02-20\n3. Collar con cruz\nhttps://www.amazon.com/s?k=cross+necklace&tag=michelgonza02-20\n4. Vela de pilar sin aroma\nhttps://www.amazon.com/s?k=unscented+pillar+candle&tag=michelgonza02-20\n5. Separadores para Biblia\nhttps://www.amazon.com/s?k=bible+bookmark+set&tag=michelgonza02-20\n\n#ad El tag michelgonza02-20 es el que ya aparece en publicaciones anteriores de esta cuenta. Contenido generado con inteligencia artificial: voz neural en español de México y arte religioso de dominio público o Wikimedia Commons. No es para niños. Mensaje de fe y esperanza, no sustituye el acompañamiento pastoral.\n\n#Ezequiel #HuesosSecos #Fe #Esperanza #Jesucristo #Jehova #2026 #RefugioEnLaPalabra #Oracion #Shorts"
+    }
+  ]
+}
